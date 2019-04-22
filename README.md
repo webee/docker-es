@@ -1,5 +1,7 @@
 # docker-es
 elasticsearch configured for chinese.
 
-add plugin: analysis-ik
-add plugin: analysis-pinyin
+Add plugins:
+- analysis-ik
+- analysis-pinyin
+- analysis-strconvert
